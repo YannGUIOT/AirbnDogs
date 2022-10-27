@@ -1,0 +1,2 @@
+class AddRef < ApplicationRecord
+end
